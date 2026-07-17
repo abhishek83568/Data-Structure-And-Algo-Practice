@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishek83568/Data-Structure-And-Algo-Practice/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/abhishek83568/Data-Structure-And-Algo-Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abhishek83568/Data-Structure-And-Algo-Practice/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishek83568/Data-Structure-And-Algo-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishek83568/Data-Structure-And-Algo-Practice/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishek83568/Data-Structure-And-Algo-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishek83568/Data-Structure-And-Algo-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
